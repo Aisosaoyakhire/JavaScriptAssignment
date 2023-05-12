@@ -1,0 +1,35 @@
+*{
+    Padding:0;
+    margin: 0;
+}
+body{
+    Background-color:rgb(189, 175, 185)
+}
+h1,h2,p
+{
+    text-align: center;
+    color: white;
+    padding:20px;
+}
+.image
+{
+    width: 35%;
+    margin-left: auto;
+    margin-right: auto;
+    border-radius: 10%;
+}
+
+button
+{
+    text-align: center;
+    background-color:  purple;
+    width:150px;
+    height:70px;
+    padding top:100px;
+    font-size: 25px;
+    color:white;
+    border-radius:10%;
+    margin-left:700px;
+    margin-top:100px;
+    margin-bottom:100px;
+}
